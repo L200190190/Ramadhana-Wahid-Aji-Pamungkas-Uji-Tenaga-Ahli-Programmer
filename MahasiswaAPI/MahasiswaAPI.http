@@ -1,0 +1,6 @@
+@MahasiswaAPI_HostAddress = http://localhost:5239
+
+GET {{MahasiswaAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
